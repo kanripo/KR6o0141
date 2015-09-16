@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 賢聖集伽陀一百頌
+#+DATE: 2015-08-30 21:01:38.747878
+#+PROPERTY: JUAN 0
