@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:38.570650
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:00
 #+TITLE: 賢聖集伽陀一百頌
 #+PROPERTY: CBETA_ID T32n1686
 #+PROPERTY: ID KR6o0141
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1686
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0141_T_000-0773b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0141_T_001-0773b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1686¶
-
- 賢聖集伽陀一百頌¶
+No. 1686¶
+賢聖集伽陀一百頌¶
 ¶
 西天譯經三藏朝散大夫試鴻臚¶
 少卿明教大師臣天息災奉　詔譯¶
@@ -154,9 +153,9 @@ No.1686¶
 　耳鐶及腕釧
 　如是富快樂¶
 　施佛莊嚴具
-　獲天勝妙果
+　獲天勝妙果」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　若作大國王
@@ -429,7 +428,7 @@ No.1686¶
 　常詣於佛前¶
 　合掌而親近
 　以自大菩提¶
-　而作解脫主
+　而作解脫主」
 #+END_VERSE
-」¶
+¶
 賢聖集伽陀一百頌
